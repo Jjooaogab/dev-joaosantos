@@ -31,12 +31,12 @@ export default function Component() {
           prefetch={false}
         >
           <MountainIcon className="h-6 w-6" />
-          <span className="sr-only">John Doe</span>
+          <span className="sr-only">Joao Santos</span>
         </Link>
         <nav className="ml-auto flex items-center z-10 gap-4 sm:gap-6">
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
-              <Button variant="outline" className="rounded-full dark:hover:bg-slate-900">
+              <Button variant="outline" className="rounded-full zinc-200 border border-zinc-300 dark:bg-zinc-800 dark:hover:bg-zinc-900">
                 <SunMoon />
               </Button>
             </DropdownMenuTrigger>
@@ -86,7 +86,7 @@ export default function Component() {
         <Skill />
         <Contact />
       </main>
-      <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t">
+      <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 bg-slate-800">
         <p className="text-xs text-gray-500 dark:text-gray-400">
           &copy; 2024 Joao Santos. All rights reserved.
         </p>
