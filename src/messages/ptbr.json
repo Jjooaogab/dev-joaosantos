@@ -1,0 +1,23 @@
+{
+  "Hero": {
+    "title": "Olá, eu sou João Santos",
+    "description": "Sou um desenvolvedor web apaixonado, criando sites bonitos e funcionais para todos os casos.",
+    "cta": "Veja o meu Github"
+  },
+  "Projects": {
+    "title": "Meus projetos recentes",
+    "description": "Veja um pouco mais sobre o que eu andei trabalhando.",
+    "cta": "Acessar"
+  },
+  "Skills": {
+    "title": "Minhas habilidades",
+    "description": "Aqui estão algumas das tecnologias nas quais sou proficiente."
+  },
+  "Contact": {
+    "title": "Entrar em contato",
+    "description": "Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou quiser colaborar.",
+    "formName": "Nome",
+    "formMessage": "Mensagem",
+    "button": "Fale comigo no instagram!"
+  }
+}
