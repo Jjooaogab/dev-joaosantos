@@ -32,7 +32,7 @@ export default function Hero() {
             </div>
           </div>
           <Image
-          src="/mainIconsDark.png"
+          src="https://cdn.discordapp.com/attachments/1246539335507906641/1246633146879967354/mainIconsdark.png?ex=665d1917&is=665bc797&hm=1dd51950fe788356202b0e3a2d1f6cae8e638f188d97389c8d3ddb872570f227&"
           width="400"
           height="400"
           alt="Hero"
