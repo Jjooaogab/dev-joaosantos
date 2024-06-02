@@ -32,7 +32,7 @@ export default function Hero() {
             </div>
           </div>
           <Image
-          src="/mainIconsDark.svg"
+          src="/mainIconsDark.png"
           width="400"
           height="400"
           alt="Hero"
