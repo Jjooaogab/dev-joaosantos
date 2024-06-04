@@ -20,11 +20,11 @@ export default function Projects() {
         </div>
         <div className="mx-auto grid max-w-5xl grid-cols-1 gap-6 py-12 sm:grid-cols-2 lg:grid-cols-3">
           <CardProject
-            description="Projeto feito em NextJS, juntamente com TailwindCSS para um salão de beleza."
-            project="Angela Beauty"
-            link="https://angela-beauty.vercel.app/"
+            description="Projeto feito em NextJS, juntamente com TailwindCSS para fortalecer as bases."
+            project="ToDo List"
+            link="https://to-do-list-dev-jjooaogab.vercel.app/"
             cta={t("cta")}
-            href="angela.png"
+            href="todolist.png"
           />
           <CardProject
             description="Projeto feito em NextJS, juntamente com TailwindCSS para um salão de cabelo."
